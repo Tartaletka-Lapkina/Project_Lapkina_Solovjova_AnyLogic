@@ -1,0 +1,32 @@
+[0304/213350.978:INFO:CONSOLE(21172)] "THREE.WebGLRenderer 92", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.3.202411201858/static/build/three.js (21172)
+[0304/213351.811:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.3.202411201858/static/libs/ColladaLoader.js (3660)
+[0304/213351.825:INFO:CONSOLE(255)] "Loaded: file:E:/konkyrs/Moscov/3d/car.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.3.202411201858/static/init.js (255)
+[0304/213351.825:INFO:CONSOLE(271)] "load end: file:E:/konkyrs/Moscov/3d/car.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.3.202411201858/static/init.js (271)
+[0304/213351.912:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.3.202411201858/static/libs/ColladaLoader.js (3660)
+[0304/213351.920:INFO:CONSOLE(255)] "Loaded: file:E:/konkyrs/Moscov/3d/bus_2.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.3.202411201858/static/init.js (255)
+[0304/213351.920:INFO:CONSOLE(271)] "load end: file:E:/konkyrs/Moscov/3d/bus_2.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.3.202411201858/static/init.js (271)
+[0304/213551.866:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0422/140605.810:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0422/140606.414:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0422/140607.920:INFO:CONSOLE(21172)] "THREE.WebGLRenderer 92", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/build/three.js (21172)
+[0422/140608.664:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/libs/ColladaLoader.js (3660)
+[0422/140608.686:INFO:CONSOLE(255)] "Loaded: file:E:/Учёба/3 курс/Параничев/2 семестр/Конкурс/konkyrs/Moscov/3d/car.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (255)
+[0422/140608.686:INFO:CONSOLE(271)] "load end: file:E:/Учёба/3 курс/Параничев/2 семестр/Конкурс/konkyrs/Moscov/3d/car.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (271)
+[0422/140608.817:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/libs/ColladaLoader.js (3660)
+[0422/140608.837:INFO:CONSOLE(255)] "Loaded: file:E:/Учёба/3 курс/Параничев/2 семестр/Конкурс/konkyrs/Moscov/3d/bus_2.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (255)
+[0422/140608.837:INFO:CONSOLE(271)] "load end: file:E:/Учёба/3 курс/Параничев/2 семестр/Конкурс/konkyrs/Moscov/3d/bus_2.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (271)
+[0422/140610.818:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0422/140611.424:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0422/140620.836:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0422/140621.429:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0422/140640.840:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0422/140641.445:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0422/140806.172:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0422/151437.567:INFO:CONSOLE(21172)] "THREE.WebGLRenderer 92", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/build/three.js (21172)
+[0422/151438.333:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/libs/ColladaLoader.js (3660)
+[0422/151438.348:INFO:CONSOLE(255)] "Loaded: file:E:/Учёба/3 курс/Параничев/2 семестр/Конкурс/konkyrs/Moscov/3d/car.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (255)
+[0422/151438.348:INFO:CONSOLE(271)] "load end: file:E:/Учёба/3 курс/Параничев/2 семестр/Конкурс/konkyrs/Moscov/3d/car.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (271)
+[0422/151438.465:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/libs/ColladaLoader.js (3660)
+[0422/151438.483:INFO:CONSOLE(255)] "Loaded: file:E:/Учёба/3 курс/Параничев/2 семестр/Конкурс/konkyrs/Moscov/3d/bus_2.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (255)
+[0422/151438.483:INFO:CONSOLE(271)] "load end: file:E:/Учёба/3 курс/Параничев/2 семестр/Конкурс/konkyrs/Moscov/3d/bus_2.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (271)
+[0422/151635.877:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
